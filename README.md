@@ -45,8 +45,11 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition]()
+(i) To find the L and U matrix
+![math exp 05(1)](https://github.com/Divya110205/LU-Decomposition/assets/119404855/4bbb549e-1ef8-4928-8238-ac57468c576e)
 
+(ii) To find the LU Decomposition of a matrix
+![math exp 05(2)](https://github.com/Divya110205/LU-Decomposition/assets/119404855/04cd3a34-eddd-4449-a592-d9965b80e2aa)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
