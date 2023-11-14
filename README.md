@@ -1,5 +1,5 @@
-# LU Decomposition 
-
+# EX 5: LU Decomposition 
+## DATE: 13.09.23
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
 
